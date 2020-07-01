@@ -17,7 +17,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sigar.version>1.6.4</sigar.version>
 		<jackson.version>2.4.2</jackson.version>
-		<quartz.version>2.2.1</quartz.version> 
+		<quartz.version>2.3.2</quartz.version> 
 	</properties>
 	<dependencies>
 		<dependency>
