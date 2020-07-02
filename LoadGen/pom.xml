@@ -13,7 +13,7 @@
 		<junit.version>4.11</junit.version>
 		<mybatis.version>3.4.2</mybatis.version>
 		<mybatis-spring.version>1.3.0</mybatis-spring.version>
-		<jdbc.version>5.1.45</jdbc.version>
+		<jdbc.version>8.0.16</jdbc.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sigar.version>1.6.4</sigar.version>
 		<jackson.version>2.4.2</jackson.version>
